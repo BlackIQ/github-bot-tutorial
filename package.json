@@ -1,0 +1,29 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "A telegram bot for getting data from github api with axios in heroku",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackIQ/telegraf-github.git"
+  },
+  "keywords": [
+    "Github",
+    "api",
+    "nodejs",
+    "bot",
+    "telegram"
+  ],
+  "author": "Amirhossein Mohammadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlackIQ/telegraf-github/issues"
+  },
+  "homepage": "https://github.com/BlackIQ/telegraf-github#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
