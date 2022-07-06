@@ -1,4 +1,4 @@
-// Impprt Telegraf
+// Import Telegraf
 const { Telegraf } = require('telegraf');
 
 // Import Axios
