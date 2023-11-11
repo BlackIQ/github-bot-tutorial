@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/BlackIQ/telegraf-github#readme",
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^1.6.0",
     "dotenv": "^16.0.1",
     "telegraf": "^4.8.5"
   }
